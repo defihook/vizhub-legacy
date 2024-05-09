@@ -17,7 +17,6 @@ VizHub version 2 is the product currently deployed at https://vizhub.com. Source
 VizHub has enough features to be useful for people who teach data visualization with D3 and React. It has been used in [Data Visualization Course 2018](https://curran.github.io/dataviz-course-2018/), [Datavis 2020](https://datavis.tech/datavis-2020/), and [Get it Right in Black and White](
 
  * Fork and modify vizzes coded with ES6 in the browser.
- * iFrame-based code execution environment.
  * Uses [https://github.com/vizhub-core/magic-sandbox](https://github.com/vizhub-core/magic-sandbox), the same tech used for [Blockbuilder](http://blockbuilder.org/) circa 2016.
  * Code editor based on CodeMirror 5.
  * Ability to switch between files (only one file is viewable at a time currently).
