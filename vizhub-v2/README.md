@@ -4,7 +4,7 @@ This is the codebase deployed at https://vizhub.com.
 
 Built with React, Node, Lerna, and ShareDB. Loosely based on [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html).
 
-To set up your development environment:
+To set up ydour development environment:
 
 Install dependencies:
 ```
